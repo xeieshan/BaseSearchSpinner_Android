@@ -1,5 +1,5 @@
 # BaseSearchSpinner_Android
-A simple and easy to use, highly customizable Searchable Spinner for Android Developers, written in Java.
+A simple and easy to use, highly customizable Searchable Spinner for Android Developers, written in Java. This spinner is using Dialog.
 
 ### Include the spinner object in XML
 ```xml
@@ -76,7 +76,7 @@ A simple and easy to use, highly customizable Searchable Spinner for Android Dev
 *This will also invoke onValueChanged method*
 
 ### Image
-#### focused
+#### Simple Spinner With Dialog
 ![Simple Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Spinner%20with%20Dialog.jpeg)
-#### not focused
+#### Search Spinner With Dialog
 ![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.jpeg)
