@@ -79,4 +79,4 @@ A simple and easy to use, highly customizable Searchable Spinner for Android Dev
 #### Simple Spinner With Dialog
 ![Simple Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Spinner%20with%20Dialog.jpeg)
 #### Search Spinner With Dialog
-![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.jpeg)
+![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.png)
