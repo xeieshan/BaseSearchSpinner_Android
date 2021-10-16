@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:gravity="bottom"
+        android:top="@dimen/_20sdp"
+        >
+        <shape android:shape="line">
+            <size android:height="@dimen/_30sdp" android:width="@dimen/_150sdp"/>
+
+        </shape>
+    </item>
+
+    <item
+        android:right="5dp"
+        android:gravity="top|right"
+        android:top="@dimen/_15sdp"
+        android:drawable="@drawable/ic_dropdown_arrow"/>
+
+
+</layer-list>

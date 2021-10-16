@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseSearchSpinner">
+        <attr name="baseColor" format="color|reference" />
+        <attr name="placeholder" format="string"/>
+        <attr name="headerText" format="string"/>
+        <attr name="headerColor" format="color"/>
+        <attr name="typeface" format="string"/>
+        <attr name="enableHeader" format="boolean"/>
+
+        <attr name="isReSelectable" format="boolean" />
+        <attr name="isSearchable" format="boolean" />
+        <attr name="dropdownView" format="reference" />
+        <attr name="searchDropdownView" format="reference" />
+        <attr name="showKeyboardOnStart" format="boolean" />
+        <attr name="enableSearchHeader" format="boolean" />
+        <attr name="searchHeaderText" format="string" />
+        <attr name="searchHeaderTextColor" format="color|reference" />
+        <attr name="searchHeaderBackgroundColor" format="color|reference" />
+        <attr name="searchHint" format="string" />
+        <attr name="searchTextColor" format="color" />
+        <attr name="searchBackgroundColor" format="color|reference" />
+        <attr name="enableDismissSearch" format="boolean" />
+        <attr name="autoSelectable" format="boolean" />
+    </declare-styleable>
+</resources>
