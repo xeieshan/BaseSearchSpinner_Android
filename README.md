@@ -58,6 +58,11 @@ A simple and easy to use, highly customizable Searchable Spinner for Android Dev
 *spinnerCountry.setSpinnerBackground(R.drawable.spinner_bg_transparent); We have 3 kinds of background options*
 *spinner_bg_with_underline.xml / spinner_bg_with_border.xml / spinner_bg_transparent.xml*
 
+### Enable or Disable search with just one bool
+```android
+    spinnerCountry.setSearchable(true);
+```
+
 ### Validations very simple
 ```android
     btnSubmit.setOnClickListener(view -> {
@@ -77,6 +82,6 @@ A simple and easy to use, highly customizable Searchable Spinner for Android Dev
 
 ### Image
 #### Simple Spinner With Dialog
-![Simple Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Spinner%20with%20Dialog.jpeg)
+![Simple Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Spinner%20with%20Dialog.png)
 #### Search Spinner With Dialog
-![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.jpeg)
+![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.png)
