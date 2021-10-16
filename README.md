@@ -77,6 +77,6 @@ A simple and easy to use, highly customizable Searchable Spinner for Android Dev
 
 ### Image
 #### focused
-![Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20focused.png)
+![Simple Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Spinner%20with%20Dialog.jpeg)
 #### not focused
-![Not Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20not%20focused.png)
+![Search Spinner With Dialog](https://github.com/xeieshan/BaseSearchSpinner_Android/blob/main/Search%20Spinner%20With%20Dialog.jpeg)
